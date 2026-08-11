@@ -22,7 +22,7 @@ A brief, catchy description of what your project does and who it is for.
 
 ---
 
-## 📦 Getting Started
+## 📦 Gettingee Started
 
 ### Prerequisites
 * Node.js installed on your machine.
